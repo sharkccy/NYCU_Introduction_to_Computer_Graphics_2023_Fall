@@ -4,7 +4,7 @@ StudentID: 110612117
 Name: Chung-Yu Chang (張仲瑜)
 
 ## Introduction:
-This repository contains the homework assignments for the NYCU Machine Learning 2023 Fall course.
+This repository contains the homework assignments for the NYCU Machine Learning course in 2023 Fall.
 
 I was a junior student in the Department of Computer Science when taking this course.
 
